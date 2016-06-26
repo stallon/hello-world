@@ -1,2 +1,2 @@
 This is FILE2.txt made on 'conflict'
---- change @ 'master'
+--- change @ both 'master' and 'conflict' 
