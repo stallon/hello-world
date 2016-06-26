@@ -1,3 +1,4 @@
 This is FILE1.txt.
 Changes made on this file.
+---- This is a change made on 'master'
 
