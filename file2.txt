@@ -1,0 +1,1 @@
+This is FILE2.txt made on 'conflict'
